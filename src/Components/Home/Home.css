@@ -1,0 +1,12 @@
+.home{
+    width: 40%;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 50px;
+}
+
+.title{
+    font-size: 30px;
+}

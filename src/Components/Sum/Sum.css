@@ -1,0 +1,11 @@
+.sum{
+    background-color: antiquewhite;
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.sum-name{
+    font-size: 40px;
+    padding: 10px;
+}
